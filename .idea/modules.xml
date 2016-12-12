@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/App01.iml" filepath="$PROJECT_DIR$/App01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app02/app02.iml" filepath="$PROJECT_DIR$/app02/app02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app03/app03.iml" filepath="$PROJECT_DIR$/app03/app03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem1/Problem1.iml" filepath="$PROJECT_DIR$/Problem1/Problem1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem2/Problem2.iml" filepath="$PROJECT_DIR$/Problem2/Problem2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem3/Problem3.iml" filepath="$PROJECT_DIR$/Problem3/Problem3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final_exam.iml" filepath="$PROJECT_DIR$/final_exam.iml" />
     </modules>
   </component>
 </project>
